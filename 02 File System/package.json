@@ -1,0 +1,11 @@
+{
+  "name": "file-system",
+  "version": "1.0.0",
+  "main": "filesystem.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Aryan Bakliwal",
+  "license": "ISC",
+  "description": ""
+}

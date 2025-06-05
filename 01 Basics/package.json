@@ -1,0 +1,15 @@
+{
+  "name": "basics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aryan Bakliwal",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "init-package-json": "^8.2.0"
+  }
+}

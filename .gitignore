@@ -1,0 +1,7 @@
+**/node_modules/
+**/.env
+**/googleOAuth2appDetails.json
+**/uploads
+**/files
+**/exampleProjects.json
+**/queries.json
